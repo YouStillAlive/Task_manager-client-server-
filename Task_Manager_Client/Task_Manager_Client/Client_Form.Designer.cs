@@ -107,7 +107,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(264, 20);
             this.textBox2.TabIndex = 6;
-            this.textBox2.Text = "192.168.0.105";
+            this.textBox2.Text = "127.0.0.1";
             this.textBox2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Connect_KeyPress);
             // 
             // Client_Form

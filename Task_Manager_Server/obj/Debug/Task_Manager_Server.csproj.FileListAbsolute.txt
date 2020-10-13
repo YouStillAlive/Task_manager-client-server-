@@ -5,3 +5,10 @@ C:\Users\Andrew\source\repos\Task_Manager_Server\obj\Debug\Task_Manager_Server.c
 C:\Users\Andrew\source\repos\Task_Manager_Server\obj\Debug\Task_Manager_Server.csproj.CoreCompileInputs.cache
 C:\Users\Andrew\source\repos\Task_Manager_Server\obj\Debug\Task_Manager_Server.exe
 C:\Users\Andrew\source\repos\Task_Manager_Server\obj\Debug\Task_Manager_Server.pdb
+C:\Users\Andrew\Desktop\Task_manager-client-server-\Task_Manager_Server\bin\Debug\Task_Manager_Server.exe.config
+C:\Users\Andrew\Desktop\Task_manager-client-server-\Task_Manager_Server\bin\Debug\Task_Manager_Server.exe
+C:\Users\Andrew\Desktop\Task_manager-client-server-\Task_Manager_Server\bin\Debug\Task_Manager_Server.pdb
+C:\Users\Andrew\Desktop\Task_manager-client-server-\Task_Manager_Server\obj\Debug\Task_Manager_Server.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\Task_manager-client-server-\Task_Manager_Server\obj\Debug\Task_Manager_Server.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\Task_manager-client-server-\Task_Manager_Server\obj\Debug\Task_Manager_Server.exe
+C:\Users\Andrew\Desktop\Task_manager-client-server-\Task_Manager_Server\obj\Debug\Task_Manager_Server.pdb
