@@ -1,0 +1,10 @@
+C:\Users\Andrew\source\repos\Task_Manager_Client\Task_Manager_Client\bin\Debug\Task_Manager_Client.exe.config
+C:\Users\Andrew\source\repos\Task_Manager_Client\Task_Manager_Client\bin\Debug\Task_Manager_Client.exe
+C:\Users\Andrew\source\repos\Task_Manager_Client\Task_Manager_Client\bin\Debug\Task_Manager_Client.pdb
+C:\Users\Andrew\source\repos\Task_Manager_Client\Task_Manager_Client\obj\Debug\Task_Manager_Client.Properties.Resources.resources
+C:\Users\Andrew\source\repos\Task_Manager_Client\Task_Manager_Client\obj\Debug\Task_Manager_Client.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\Task_Manager_Client\Task_Manager_Client\obj\Debug\Task_Manager_Client.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Task_Manager_Client\Task_Manager_Client\obj\Debug\Task_Manager_Client.exe
+C:\Users\Andrew\source\repos\Task_Manager_Client\Task_Manager_Client\obj\Debug\Task_Manager_Client.pdb
+C:\Users\Andrew\source\repos\Task_Manager_Client\Task_Manager_Client\obj\Debug\Task_Manager_Client.Client_Form.resources
+C:\Users\Andrew\source\repos\Task_Manager_Client\Task_Manager_Client\obj\Debug\Task_Manager_Client.csprojAssemblyReference.cache
